@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hilal</h1>
-<h3 align="center">A third year computer science student at Universitas Indonesia</h3>
+<h1 align="center">Hi, there👋! I'm Hilal</h1>
+<h4 align="center">A third year computer science student at Universitas Indonesia with a strong passion for technology, particularly Software Engineering. I have gained knowledge in various programming fields, including Web Development and Machine Learning.</h4>
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilaldfzn&label=Profile%20views&color=0e75b6&style=flat" alt="hilaldfzn" /> </p>
 
