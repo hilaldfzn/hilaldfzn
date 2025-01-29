@@ -1,7 +1,8 @@
-<h1 align="center">Hi, there👋! I'm Hilal</h1>
-<h4 align="center">A third year computer science student at Universitas Indonesia with a strong passion for technology, particularly Software Engineering. I have gained knowledge in various programming fields, including Web Development and Machine Learning.</h4>
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding">
-<br>
+<div align="center">
+    <h1 align="center">Hi, there👋! I'm Hilal</h1>
+    <h4 align="center">A third year computer science student at Universitas Indonesia with a strong passion for technology, particularly Software Engineering. I have gained knowledge in various programming fields, including Web Development and Machine Learning.</h4>
+    <p><img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"></p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilaldfzn&label=Profile%20views&color=0e75b6&style=flat" alt="hilaldfzn" /> </p>
 
@@ -35,8 +36,12 @@
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilaldfzn&show_icons=true&locale=en&layout=compact" alt="hilaldfzn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hilaldfzn&show_icons=true&locale=en" alt="hilaldfzn" /></p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilaldfzn&show_icons=true&locale=en&layout=compact" alt="hilaldfzn" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hilaldfzn&" alt="hilaldfzn" /></p>
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hilaldfzn&show_icons=true&locale=en" alt="hilaldfzn" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hilaldfzn&" alt="hilaldfzn" />
+</p>
