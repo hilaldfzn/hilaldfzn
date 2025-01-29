@@ -37,11 +37,11 @@
 </p>
 
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilaldfzn&show_icons=true&locale=en&layout=compact" alt="hilaldfzn" />
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilaldfzn&show_icons=true&locale=en&layout=compact" alt="hilaldfzn" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hilaldfzn&show_icons=true&locale=en" alt="hilaldfzn" />
 </p>
 
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hilaldfzn&show_icons=true&locale=en" alt="hilaldfzn" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hilaldfzn&" alt="hilaldfzn" />
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilaldfzn&" alt="hilaldfzn" />
 </p>
