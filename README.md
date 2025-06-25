@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center">Hi, there👋! I'm Hilal</h1>
-    <h4 align="center">A third year computer science student at Universitas Indonesia with a strong passion for technology, particularly Software Engineering. I have gained knowledge in various programming fields, including Web Development and Machine Learning.</h4>
+    <h4 align="center">Final year computer science student at Universitas Indonesia with a strong passion for technology, particularly Software Engineering. I have gained knowledge in various programming fields, including Web Development and Machine Learning.</h4>
     <p><img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"></p>
 </div>
 
